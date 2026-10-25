@@ -2,9 +2,8 @@
 
 Designed to play hundreds of games most efficeintly on PC using Linux as platfom
 
-Look at the compatibility.md for a list of games
+The compatibility.md provides a list of games supported.
 
-Look at the engines.md to learn about the software used to running games.
+The engines.md provides details about the software used to running games.
 
-
-Imam Hossain (emamhd@gmail.com)
+Md Imam Hossain (emamhd@gmail.com)
