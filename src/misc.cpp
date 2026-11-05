@@ -1,3 +1,8 @@
+/* 
+Copyright (c) Md Imam Hossain (emamhd at gmail dot com)
+see LICENSE.txt for details 
+*/
+
 #include "dep.h"
 
 extern PidSaveCollection pid_save_collection;
