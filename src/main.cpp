@@ -1,3 +1,5 @@
+/* see LICENSE.txt for details */
+
 #include "dep.h"
 
 AppWindow app_window;
